@@ -1,0 +1,16 @@
+{
+  "name": "venue_booking",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@fastify/jwt": "^7.2.1",
+    "@prisma/client": "^5.3.1",
+    "@types/node": "^20.6.2",
+    "dayjs": "^1.11.10",
+    "fastify": "^4.23.2",
+    "prisma": "^5.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
